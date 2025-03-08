@@ -58,7 +58,7 @@ zedtribe/
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance ZedTribe! To contribute:
+We welcome contributions to enhance Zedtribe! To contribute:
 
 1. **Fork the repository**.
 2. **Create a new branch**:
